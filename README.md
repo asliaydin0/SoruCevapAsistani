@@ -15,7 +15,7 @@ gibi hedefleri gerçekleştirmek üzere geliştirilmiştir.
 
 > Ana ekran örneği:
 
-<img src="ekran-goruntusu.png" alt="Uygulama Görseli" width="300"/>
+<img src="ekran-goruntusu.png" alt="Uygulama Görseli" width="500"/>
 
 
 ## ⚙️ Kullanılan Teknolojiler

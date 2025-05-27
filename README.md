@@ -1,6 +1,6 @@
 # 🧠 Soru-Cevap Asistanı
 
-Basit bir kural tabanlı yapay zeka demo projesi. Kullanıcıdan alınan metne göre cevap üretir ve sade bir arayüzle sunar. Flask tabanlı backend ve Bootstrap destekli frontend yapısı ile geliştirilmiştir.
+Bu basit bir kural tabanlı yapay zeka demo projesidir. Kullanıcıdan alınan metne göre cevap üretir ve sade bir arayüzle sunar. Flask tabanlı backend ve Bootstrap destekli frontend yapısı ile geliştirilmiştir.
 
 ## 🎯 Projenin Amacı
 

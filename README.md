@@ -1,1 +1,26 @@
-# SoruCevapAsistani
+# 🧠 Soru-Cevap Asistanı
+
+Basit bir kural tabanlı yapay zeka demo projesi. Kullanıcıdan alınan metne göre cevap üretir ve sade bir arayüzle sunar. Flask tabanlı backend ve Bootstrap destekli frontend yapısı ile geliştirilmiştir.
+
+## 🎯 Projenin Amacı
+
+Bu proje, temel yapay zeka mantığını ve web geliştirme becerilerini birleştirerek:
+- Kullanıcıdan gelen bir metne cevap üretmek
+- Flask ile backend işleyişini anlamak
+- Bootstrap ile responsive ve şık bir arayüz oluşturmak
+
+gibi hedefleri gerçekleştirmek üzere geliştirilmiştir.
+
+## 🖼️ Ekran Görüntüsü
+
+> Ana ekran örneği:
+
+![Ekran Görüntüsü](ekran-goruntusu.png) <!-- İstersen bu alanı düzenleyip proje klasörüne bir ekran görüntüsü ekleyebilirsin -->
+
+## ⚙️ Kullanılan Teknolojiler
+
+- Python 3
+- Flask
+- HTML5 / CSS3
+- Bootstrap 5
+- Jinja2 (Flask şablon motoru)

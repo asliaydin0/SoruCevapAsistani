@@ -15,7 +15,7 @@ gibi hedefleri gerçekleştirmek üzere geliştirilmiştir.
 
 > Ana ekran örneği:
 
-![Ekran Görüntüsü](ekran-goruntusu.png) <!-- İstersen bu alanı düzenleyip proje klasörüne bir ekran görüntüsü ekleyebilirsin -->
+![Ekran Görüntüsü](ekran-görüntüsü.png) <!-- İstersen bu alanı düzenleyip proje klasörüne bir ekran görüntüsü ekleyebilirsin -->
 
 ## ⚙️ Kullanılan Teknolojiler
 
